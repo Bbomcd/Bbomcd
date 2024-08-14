@@ -14,5 +14,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbomcd&show_icons=true&text_color=52a5ff&bg_color=ffffff&locale=en&layout=compact" alt="bbomcd" /></p>
 
+<p align="left">
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbomcd&show_icons=true&title_color=52b4ff&text_color=42a4ff&bg_color=ffffff&locale=en" alt="bbomcd" /></p>
